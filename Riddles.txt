@@ -1,0 +1,3 @@
+# A boy and a girl are chatting at a local cafe, taking a sip of his drink, the boy says:
+# "You know, I'm 20 now, but back then when I was as old as you are now, you were half my current age, isn't that cool?"
+# Using what this guy said, how old is the girl he's chatting with?
